@@ -1,12 +1,12 @@
-# Replace this with the Project Name
+# Box Bois
 
-Replace this text with a brief introduction to the problem space.
+Around 1.7 million packages are stolen from homeowner's doorsteps each year. Here at Box Bois, we have created a product that protects your package at your doorstep in an easy and useful way.
 
 ## Team Members
 
-* **Full Name 1** - Summary of contributions
-* **Full Name 2** - Summary of contributions
-* **Full Name 3** - Summary of contributions
+* **Kyle Reeves** - Summary of contributions
+* **Sydney Serrano** - Summary of contributions
+* **Benny Calderon** - Summary of contributions
 
 # User-Centered Design Artifacts
 
