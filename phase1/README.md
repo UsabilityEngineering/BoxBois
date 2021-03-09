@@ -11,7 +11,7 @@
 ### The users we collected data from during phase 1 were fellow chico state students. Here were there responses...
 1. How many packages do you order online and have them shipped to your doorstep weekly?   
  
-⋅⋅⋅The majority of individuals order one package weekly to their doorstep. 
+⋅⋅⋅The majority of individuals order one package weekly to their doorstep.⋅⋅ 
 
 2. How old are you?   
  
