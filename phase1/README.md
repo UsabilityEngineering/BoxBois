@@ -6,7 +6,6 @@
 #### We use Survey because it is the easiest way to get gather the basic useful questions we need. n = 23
 #### We use naturalistic observation because it is the only way to get raw data on how individuals would interact with our box protector product. n = 1
 
-
 ## Findings
 ### The users we collected data from during phase 1 were fellow chico state students. Here were there responses...
 1. How many packages do you order online and have them shipped to your doorstep weekly?   
@@ -44,9 +43,8 @@
 ## Conclusions
 ### The largest takeaway from this would be that 95% of survey takers are interested in seeing a product like this. With this however, we know that the majority of survey takers dont worry about their package being stolen from their doorstep. 
 
-
 ## Caveats
-###
+### We thought the parcel protector box should be fairly large to accomidate for all types of packages. With this however, we were surprised to figure out that people mostly recieve small pacakges to their doorstep, meaning our parcel protector box doesn't need to be nearly as large as we planned.
 
 
 ## Supplementary Materials
