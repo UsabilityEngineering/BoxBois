@@ -9,15 +9,15 @@
 
 ## Findings
 ### The users we collected data from during phase 1 were fellow chico state students. Here were there responses...
-1. How many packages do you order online and have them shipped to your doorstep weekly?  
+1. How many packages do you order online and have them shipped to your doorstep weekly?   
  
-⋅⋅⋅The majority of individuals order one package weekly to their doorstep.
+⋅⋅⋅The majority of individuals order one package weekly to their doorstep. 
 
 2. How old are you?   
 
 ⋅⋅⋅The majority of individuals are from 21 - 24 years old.
 
-3. Which of the following is your type of residence?
+3. Which of the following is your type of residence?  
 
 ...The majority of individuals who took the survey live in apartements or condominiums with 43.5% of votes, followed by single-family homes with 34.8% of votes.
 
