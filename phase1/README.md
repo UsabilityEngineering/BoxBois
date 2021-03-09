@@ -2,23 +2,23 @@
 ### Kyle Reeves, Benny Calderon, Sydney Serrano
 
 ## Methods
-### Survey / Questionaire, Naturalistic Observation
-#### We use Survey because it is the easiest way to get gather the basic useful questions we need. n = 23
+### Survey / Questionnaire, Naturalistic Observation
+#### We use Survey because it is the easiest way to gather the basic useful questions we need. n = 23
 #### We use naturalistic observation because it is the only way to get raw data on how individuals would interact with our box protector product. n = 1
 
 ## Findings
 ### The users we collected data from during phase 1 were fellow chico state students. Here were there responses...
 1. How many packages do you order online and have them shipped to your doorstep weekly?   
  
-     The majority of individuals order one package weekly to their doorstep.
+     The majority of individuals order one package weekly to their doorstep, which came out to be 37.5% of votes. People who ordered 2 or 3 packages weekly accounted for 12.5% of the votes respectively
 
 2. How old are you?   
  
-     The majority of individuals are from 21 - 24 years old.
+     The majority of survey takers are from 21 - 24 years old. This accounted for 74.9% of votes.
  
 3. Which of the following is your type of residence?  
 
-     The majority of individuals who took the survey live in apartements or condominiums with 43.5% of votes, followed by single-family homes with 34.8% of votes.
+     The majority of individuals who took the survey live in apartments  or condominiums with 43.5% of votes, followed by single-family homes with 34.8% of votes.
 
 4. Do you know of someone who has been a victim of a porch pirate?   
 
@@ -26,25 +26,26 @@
 
 5. On average, how many hours do you spend out of your house daily?
 
-     The vast majority of individuals are out of their house between 1 - 4 hours. 
+     The majority of survey takers are out of their house between 1 - 3 hours daily. This accounted for exactly 50% of votes.
 
 6. How often do you worry about your packages being stolen while you're out of work / out of the house?  
 
-     The vast majority of individuals answered "not worried" to this question.
+     The majority of survey takers answered "not worried" to this question. This accounted for 62.5% of votes.
 
 7. How big would you describe the packages you get usually?
 
-     The majority of individuals said they ordered small packages, with a 69.6%
+     The majority of individuals said they ordered small packages. This accounted for 69.6% of votes.
 
 8. Would you be interested in a product that protects your packages on your doorstep?
 
-     95.7% of survey takers would be interested in our product!
+     95.7% of survey takers said they would be interested in our product!
 
 ## Conclusions
-### The largest takeaway from this would be that 95% of survey takers are interested in seeing a product like this. With this however, we know that the majority of survey takers dont worry about their package being stolen from their doorstep. 
+### The largest takeaway from this would be that 95% of survey takers are interested in seeing a product like this. With this however, we know that the majority of survey takers don't worry about their package being stolen from their doorstep. While this is a good thing in general, our parcel protector is sold more in environments where packages need to be secured. This means we need to shift our demographic to different locations where package theft might happen more frequently. 
 
 ## Caveats
-### We thought the parcel protector box should be fairly large to accomidate for all types of packages. With this however, we were surprised to figure out that people mostly recieve small pacakges to their doorstep, meaning our parcel protector box doesn't need to be nearly as large as we planned.
+### We thought the parcel protector box should be fairly large to accommodate for all types of packages. With this however, we were surprised to figure out that people mostly receive small packages to their doorstep, meaning our parcel protector box doesn't need to be nearly as large as we planned.
+### Another caveat might be the original shape of our parcel protector. We had planned to make it a large box to store your smaller packages in, but after finding out that most of our survey takers live in apartments or condominiums, we might need to redesign / configure the shape so it can fit within these housing units.
 
 
 ## Supplementary Materials
