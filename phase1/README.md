@@ -10,7 +10,7 @@
 ### The users we collected data from during phase 1 were fellow chico state students. Here were there responses...
 1. How many packages do you order online and have them shipped to your doorstep weekly?   
  
-     The majority of individuals order one package weekly to their doorstep, which came out to be 37.5% of votes. People who ordered 2 or 3 packages weekly accounted for 12.5% of the votes respectively
+     The majority of individuals order one package weekly to their doorstep, which came out to be 37.5% of votes. People who ordered 2 or 3 packages weekly accounted for 12.5% of the votes respectively.
 
 2. How old are you?   
  
