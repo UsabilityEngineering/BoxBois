@@ -15,7 +15,7 @@
 
 2. How old are you?   
  
-⋅⋅⋅The majority of individuals are from 21 - 24 years old.⋅⋅
+   The majority of individuals are from 21 - 24 years old.⋅⋅
  
 3. Which of the following is your type of residence?  
 
@@ -46,7 +46,7 @@
 
 
 ## Caveats
-
+###
 
 
 ## Supplementary Materials
