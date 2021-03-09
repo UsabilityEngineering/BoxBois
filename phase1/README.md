@@ -11,11 +11,11 @@
 ### The users we collected data from during phase 1 were fellow chico state students. Here were there responses...
 1. How many packages do you order online and have them shipped to your doorstep weekly?  
  
-...The majority of individuals order one package weekly to their doorstep.
+⋅⋅⋅The majority of individuals order one package weekly to their doorstep.
 
 2. How old are you?   
 
-...The majority of individuals are from 21 - 24 years old.
+⋅⋅⋅The majority of individuals are from 21 - 24 years old.
 
 3. Which of the following is your type of residence?
 
