@@ -2,11 +2,11 @@
 
 # Personas
 
-## Jessica
+## Jessica Wroblewski
 
-Media Influencer with a following over 1 million, only shops online, lives in a family town-house but hates her roomates  
+Media Influencer with a following of over 1 million, only shops online, lives in a family town-house but hates her roomates  
 
-## Replace with a Persona's name
+## Daniel Bucky
 
 Replace with a Persona's details
 
