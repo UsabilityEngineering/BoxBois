@@ -14,9 +14,9 @@
 ⋅⋅⋅The majority of individuals order one package weekly to their doorstep. 
 
 2. How old are you?   
-
-⋅⋅⋅The majority of individuals are from 21 - 24 years old.
-
+ 
+⋅⋅⋅The majority of individuals are from 21 - 24 years old.⋅⋅
+ 
 3. Which of the following is your type of residence?  
 
 ...The majority of individuals who took the survey live in apartements or condominiums with 43.5% of votes, followed by single-family homes with 34.8% of votes.
