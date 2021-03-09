@@ -1,6 +1,17 @@
 # Box Bois, Phase 1: Requirements Gathering
 ### Kyle Reeves, Benny Calderon, Sydney Serrano
 
+## Executive Summary
+- Investigated user experiences with porch pirates to see who is most affected and which areas are most affected by porch pirates
+   - Found that a majority (43.5%) of the individuals, aged **21 to 24 years of age**, live in **apartments or condominiums**.
+- **Almost half** (60.9% combined) of the surveyed individuals **know victims** (43.5%) or **have been victimized by a porch pirate** (17.4%).
+- **Online survey** of individuals (n=24) with different backgrounds and living situations within a Chico state class session gathered people’s experiences with porch pirates and potential interest in the product.
+- Found that a majority (69.6%) of surveyed individuals **order smaller packages, comparable to a small novel**.
+- The average number of hours **people spend outside** of their houses ranges from **1-3 hours**, but around **62.5%** of survey takers specified that they are **not worried** about porch pirates.
+- **Designed personas and scenarios** to represent a victim and a porch pirate experience with the product:
+   - Jessica: social media influencer who gets products shipped to her doorstep so that she can make a review on them, but is usually busy creating videos that sometimes take her outside of the house.
+   - Niko: a porch pirate who randomly steals packages in different areas and pawns them to avoid suspicion and make some quick cash. 
+
 ## Methods
 ### Survey / Questionnaire, Naturalistic Observation
 #### We use Survey because it is the easiest way to gather the basic useful questions we need. n = 23
