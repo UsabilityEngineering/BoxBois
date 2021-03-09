@@ -56,3 +56,11 @@
 
 
 Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a survey, protocol for an interview or contextual inquiry, etc) as PDF documents.
+
+![SurveyPic1](https://i.imgur.com/zXvb7CF.png)
+
+![SurveyPic2](https://i.imgur.com/tUl66hU.png)
+
+![SurveyPic3](https://i.imgur.com/ZcP0xS5.png)
+
+![SurveyPic4](https://i.imgur.com/LOCr5hD.png)
