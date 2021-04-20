@@ -1,6 +1,6 @@
 ## Phase 2: User-Centered Design
 <p float="left">
-![alt-text-1](https://i.imgur.com/k09lJc2.png "title-1") ![alt-text-2] (https://i.imgur.com/41yVDhA.png "title-1")
+![alt-text-1](https://i.imgur.com/k09lJc2.png "title-1") ![alt-text-2] (https://i.imgur.com/41yVDhA.png "title-2")
 LOGIN_SCREEN <img src="https://i.imgur.com/k09lJc2.png" width="200">
 CREATE_ACCOUNt <img src="https://i.imgur.com/41yVDhA.png" width="200"><br/>
 home-screen-unlock <img align=right src="https://i.imgur.com/a84lJD9.png" width="200"> 
