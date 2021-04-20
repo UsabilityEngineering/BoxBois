@@ -2,7 +2,7 @@
 
 
 |LOGIN_SCREEN <img src="https://i.imgur.com/k09lJc2.png" width="200">|
------------------------------------------------------------------------
+
 |CREATE_ACCOUNt <img src="https://i.imgur.com/41yVDhA.png" width="200">|
 ------------------------------------------------------------------------
 |home-screen-unlock <img align=right src="https://i.imgur.com/a84lJD9.png" width="200">| 
