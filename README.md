@@ -11,7 +11,7 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
-* [Wireframes](#)
+* [Wireframes](Wireframe.md)
 * [Prototype](#) draft
 
 # Phase 1: Requirements Gathering
