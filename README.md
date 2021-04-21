@@ -12,7 +12,7 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 
 * [Personas and Scenarios](personas-scenarios.md)
 * [Wireframes](#)
-* [Prototype](#)
+* [Prototype](#) draft
 
 # Phase 1: Requirements Gathering
 
@@ -24,7 +24,8 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 
 # Phase 2: Interaction Design
 
-*Coming Soon*
+* [Wireframes](#)
+* [Prototype](#) draft
 
 [Full phase 2 report](phase2/)
 
