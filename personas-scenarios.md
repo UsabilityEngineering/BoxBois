@@ -4,17 +4,17 @@
 
 ## Jessica Wroblewski
 
-Media Influencer with a following of over 1 million, only shops online, lives in a family town-house but hates her roomates  
+Jessica Wroblewski is a 24 year-old media influencer with a following of over 1 million. She strictly shops online and lives in a single-family town-house with a roommate. With Jessica being an online influencer, she receives up to five packages shipped to her doorstep weekly. She spends four to five hours outside making content at important events in order to promote her social media persona, so she never knows when a package has arrived.   
 
-## Niko Bellic
-Loves to steal packages from porches, is a trainwreck, step-dad hates him, lives in the attic of his mom's house
+## Sean Hanson
+Sean Hanson is a 36 year-old stay-at-home father of four: Ed, Chris, Frankie, and Karl, whose ages range from three to seven years old. He lives in a town-house located next to the largest wildlife park reservation in the state. Since his wife, Shannon Hanson, is constantly busy at work, he constantly orders groceries to his house in order to feed his family. Most of the time, Sean is tending to his four needy children and cannot retrieve packages whenever they are delivered.  
 
 # Scenarios
 
-## Jessica's roomate is a porch pirate
+## Jessica's roommate is a porch pirate
 
-With Jessica being an online influencer she gets tons of packages shipped to her doorstep weekly. She is always making content near scenic views so she never knows when a package has arrived. Her roomate takes a package from the doorstep each week in spite of Jessica. Jessica now knows her roomate is the porch pirate but does not know how to protect her package deliveries. She finds out about a parcel protector box from "Box Bois" and buys one immediately. With the 'Box Bois' parcel protector Jessica is now the only person with access to her packages keeping her online deliveries safe. Her roomate was upset and moved out.   
+Jessica's roommate, Sarah, also has a social media account. However, Sarah's account is not nearly as popular as Jessica's. Because of this, Sarah takes a package from the doorstep each week in spite of Jessica. Jessica notices that some of her packages are missing every week, and has to email the organizations that sent her the product, asking for a replacement item. This causes her social media prowess to deteriorate as she cannot create content as rapidly as she was before.    
 
-## Niko's first encounter with a Box Bois parcel protector
+## Sean's grocery grubbers
 
-Niko lives in the outskirts of the city but he is also very close to inner city where most apartment complexes are. Niko usually steals packages from the outskirts first then moves onto the apartment complexes for more looting. He then sells all his findings at the pawn shop and calls it a day. All of the people living in the outskirt were fed up with their packages getting randomly stolen still not knowing who was to blame. They searched online how to protect their deliveries, most came across the Box Bois parcel protection box and bought one right away. Niko spots a UPS truck and follows it to its destination, he sees the package being dropped into a box with a "Box Bois" logo on it. As soon as the driver leaves Niko goes in for the loot. The Box Bois parcel protector has a scale at the bottom which immediately locks the whole box once the package is dropped in there. Niko does not know this and keeps trying to open it by bashing it and trying to pry it open but the box is impenetrable. He then sees that all of the houses in the outskirts now have the same box on their porch. He leaves and cries, he hasn't stolen anything since.   
+Sean is currently entertaining his four young children when the doorbell rings. The groceries have arrived, but he cannot answer it immediately as his youngest child, Ed is attempting to eat a bottle cap. The delivery person has delivered to this house before and has waited for long periods of time before, so he leaves. Now that the groceries are unprotected, critters from the wildlife park reservation decide it is safe enough to investigate the grocery bag and steal many of its contents. Sean finally comes outside ten minutes after the doorbell rings to see his ransacked grocery bags and shoos the remaining critters away. 
