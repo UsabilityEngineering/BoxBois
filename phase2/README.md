@@ -4,6 +4,8 @@
   
 For this deliverable, we created a model application for the use of our product the "parcel protector". We drew inspiration from other simple phone applications that are made to assist a device. We created a wireframe of all the app pages then used the prototype feature in adobe XD to make them all path together seamlessly. After this, we created this .md file to explain our thought process when making these app pages. 
 
+### Wireframes:
+
 |<img src="https://i.imgur.com/k09lJc2.png" width="200"> | <img src="https://i.imgur.com/41yVDhA.png" width="200"> | <img src="https://i.imgur.com/epSPRmO.png" width="200"> |
 | :---: | :---: | :---: |
 | LOGIN | CREATE | DELIVERY |
