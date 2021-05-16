@@ -13,6 +13,11 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 * [Personas and Scenarios](personas-scenarios.md)
 * [Wireframes](phase2/Box_Bois.pdf)
 * [Prototype](https://xd.adobe.com/view/3a1a806e-5814-43eb-918f-bf96e5af1e4e-6f49/?fullscreen) draft
+* [Protocol](https://docs.google.com/document/d/1KJwa-8kfI2C_ccAX111DMglHdtKyfPXoBuUfdFE4W2w/edit?usp=sharing)
+* [Data collection sheet](https://docs.google.com/spreadsheets/d/1MjsM1fVdNqtomzDAQW_QMf9lI9NFl82loGBwy3lTQrc/edit?usp=sharing)
+
+
+
 
 # Phase 1: Requirements Gathering
 
@@ -37,7 +42,7 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
   - Drew inspiration from other simple phone applications that are made to assist a device.   
   - Created a wireframe of all the app pages then used the prototype feature in adobe XD to make them all path together seamlessly       
 
-### Phase 2 Links 
+### Phase 2 Links   
 * [Wireframe](phase2/Box_Bois.pdf) pdf
 * [Prototype](https://xd.adobe.com/view/3a1a806e-5814-43eb-918f-bf96e5af1e4e-6f49/?fullscreen) draft
 
@@ -48,5 +53,9 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 # Phase 3: Usability Evaluation
 
 ### Executive Summary:
+
+### Phase 3 Links  
+* [Protocol](https://docs.google.com/document/d/1KJwa-8kfI2C_ccAX111DMglHdtKyfPXoBuUfdFE4W2w/edit?usp=sharing)
+* [Data collection sheet](https://docs.google.com/spreadsheets/d/1MjsM1fVdNqtomzDAQW_QMf9lI9NFl82loGBwy3lTQrc/edit?usp=sharing)
 
 [Full phase 3 report](phase3/)
