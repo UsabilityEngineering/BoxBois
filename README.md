@@ -6,7 +6,7 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 
 * **Kyle Reeves** - Summary of contributions
 * **Sydney Serrano** - Summary of contributions
-* **Benny Calderon** - Summary of contributions
+* [**Benny Calderon**](https://usabilityengineering.github.io/bennys-ux-portfolio/) - Summary of contributions
 
 # User-Centered Design Artifacts
 
