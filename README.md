@@ -17,7 +17,7 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 # Phase 1: Requirements Gathering
 
 
-## Executive Summary
+### Executive Summary
 - Investigated user experiences with porch pirates to see who is most affected and which areas are most affected by porch pirates
    - Found that a majority (43.5%) of the individuals, aged **21 to 24 years of age**, live in **apartments or condominiums**.
 - **Almost half** (60.9% combined) of the surveyed individuals **know victims** (43.5%) or **have been victimized by a porch pirate** (17.4%).
@@ -35,7 +35,7 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 * [Wireframe](phase2/Box_Bois.pdf) pdf
 * [Prototype](https://xd.adobe.com/view/3a1a806e-5814-43eb-918f-bf96e5af1e4e-6f49/?fullscreen) draft
 
-## Executive Summary:
+### Executive Summary:
   
   - Created a model application for the use of our product the "parcel protector".   
   - Drew inspiration from other simple phone applications that are made to assist a device.   
