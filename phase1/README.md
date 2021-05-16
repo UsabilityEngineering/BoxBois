@@ -10,7 +10,7 @@
 - The average number of hours **people spend outside** of their houses ranges from **1-3 hours**, but around **62.5%** of survey takers specified that they are **not worried** about porch pirates.
 - **Designed personas and scenarios** to represent a victim and a porch pirate experience with the product:
    - Jessica: social media influencer who gets products shipped to her doorstep so that she can make a review on them, but is usually busy creating videos that sometimes take her outside of the house.
-   - Niko: a porch pirate who randomly steals packages in different areas and pawns them to avoid suspicion and make some quick cash. 
+   - Sean Hanson: a 36 year-old stay-at-home father of four. Constantly orders groceries to his house in order to feed his family. Sean tends to his needy children therefore he cannot retrieve packages whenever they are delivered. 
 
 ## Methods
 ### Survey / Questionnaire, Naturalistic Observation
