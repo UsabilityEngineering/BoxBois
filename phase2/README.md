@@ -2,9 +2,9 @@
 
 ### Executive Summary:
   
--Created a model application for the use of our product the "parcel protector". 
--Drew inspiration from other simple phone applications that are made to assist a device.
--Created a wireframe of all the app pages then used the prototype feature in adobe XD to make them all path together seamlessly
+  -Created a model application for the use of our product the "parcel protector".   
+  -Drew inspiration from other simple phone applications that are made to assist a device.
+  -Created a wireframe of all the app pages then used the prototype feature in adobe XD to make them all path together seamlessly
 
 ### Wireframes:
 
