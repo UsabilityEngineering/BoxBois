@@ -26,13 +26,20 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 - The average number of hours **people spend outside** of their houses ranges from **1-3 hours**, but around **62.5%** of survey takers specified that they are **not worried** about porch pirates.
 - **Designed personas and scenarios** to represent a victim and a porch pirate experience with the product:
    - Jessica: social media influencer who gets products shipped to her doorstep so that she can make a review on them, but is usually busy creating videos that sometimes take her outside of the house.
-   - Sean Hanson: a 36 year-old stay-at-home father of four. Constantly orders groceries to his house in order to feed his family. Sean tends to his needy children therefore he cannot retrieve packages whenever they are delivered.
+   - Sean Hanson: a 36 year-old stay-at-home father of four. Constantly orders groceries to his house in order to feed his family. Sean tends to his needy children therefore he cannot retrieve packages whenever they are delivered.    
+ 
 [Full phase 1 report](phase1/)
 
 # Phase 2: Interaction Design
 
 * [Wireframe](phase2/Box_Bois.pdf) pdf
 * [Prototype](https://xd.adobe.com/view/3a1a806e-5814-43eb-918f-bf96e5af1e4e-6f49/?fullscreen) draft
+
+## Executive Summary:
+  
+  - Created a model application for the use of our product the "parcel protector".   
+  - Drew inspiration from other simple phone applications that are made to assist a device.   
+  - Created a wireframe of all the app pages then used the prototype feature in adobe XD to make them all path together seamlessly   
 
 [Full phase 2 report](phase2/)
 
