@@ -15,9 +15,10 @@
 
 ### Task 1   
 Task 1 focuses on setting up a user account via a phone application. After that account has been set up, we then tell them to link the parcel protector box to their account.
-With the feedback we recieve it will help us figure out how well the flow of our application flow is, as well as what accomadations need to be met for a smoother experience to first time users. 
+With the feedback we recieve it will help us figure out how well the flow of our application flow is, as well as what accommodations need to be met for a smoother experience to first time users. 
 
 ### Task 2
+Our second task highlights how a user would allow another trusted user access to their parcel protector box. From that point forward the task gauges how effective the app is at helping a user find previous deliveries. The feedback we recieve will show how efficient finding previous deliveries is, but also will let us know if adding a trusted user is a 
 
 ### Task 3
 
