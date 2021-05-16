@@ -4,7 +4,7 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 
 ## Team Members
 
-* **Kyle Reeves** - Summary of contributions
+* [**Kyle Reeves**](https://usabilityengineering.github.io/ux-portfolio-KyleNoCompile/) - Summary of contributions
 * [**Sydney Serrano**](https://usabilityengineering.github.io/ux-portfolio-szserrano/) - Summary of contributions
 * [**Benny Calderon**](https://usabilityengineering.github.io/bennys-ux-portfolio/) - Summary of contributions
 
