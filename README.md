@@ -32,19 +32,21 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 
 # Phase 2: Interaction Design
 
+### Executive Summary:
+  - Created a model application for the use of our product the "parcel protector".   
+  - Drew inspiration from other simple phone applications that are made to assist a device.   
+  - Created a wireframe of all the app pages then used the prototype feature in adobe XD to make them all path together seamlessly       
+
+### Phase 2 Links 
 * [Wireframe](phase2/Box_Bois.pdf) pdf
 * [Prototype](https://xd.adobe.com/view/3a1a806e-5814-43eb-918f-bf96e5af1e4e-6f49/?fullscreen) draft
 
-### Executive Summary:
-  
-  - Created a model application for the use of our product the "parcel protector".   
-  - Drew inspiration from other simple phone applications that are made to assist a device.   
-  - Created a wireframe of all the app pages then used the prototype feature in adobe XD to make them all path together seamlessly   
+
 
 [Full phase 2 report](phase2/)
 
 # Phase 3: Usability Evaluation
 
-*Coming Soon*
+### Executive Summary:
 
 [Full phase 3 report](phase3/)
