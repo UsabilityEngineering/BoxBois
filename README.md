@@ -55,7 +55,7 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 ### Executive Summary:
 
 ### Phase 3 Links  
-* [Protocol](https://docs.google.com/document/d/1KJwa-8kfI2C_ccAX111DMglHdtKyfPXoBuUfdFE4W2w/edit?usp=sharing)  
+* [Protocol](phase3/Box_Bois_Usability_Test_Protocol.pdf)  
 * [Prototype](https://xd.adobe.com/view/16f6dd48-460d-4102-acb4-25a29a98c989-43a5/?fullscreen)   
 * [Data collection sheet](https://docs.google.com/spreadsheets/d/1MjsM1fVdNqtomzDAQW_QMf9lI9NFl82loGBwy3lTQrc/edit?usp=sharing)  
 
