@@ -7,7 +7,7 @@
 
 
 [Prototype](https://xd.adobe.com/view/16f6dd48-460d-4102-acb4-25a29a98c989-43a5/?fullscreen)   
-[Protocol](./Box Bois Usability Test Protocol.pdf)       
+[Protocol](phase3/Box Bois Usability Test Protocol.pdf)       
 [Data collection sheet](https://docs.google.com/spreadsheets/d/1MjsM1fVdNqtomzDAQW_QMf9lI9NFl82loGBwy3lTQrc/edit?usp=sharing)   
 
 
