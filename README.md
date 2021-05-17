@@ -4,16 +4,19 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 
 ## Team Members
 
-* [**Kyle Reeves**](https://usabilityengineering.github.io/ux-portfolio-KyleNoCompile/) - Summary of contributions
-* [**Sydney Serrano**](https://usabilityengineering.github.io/ux-portfolio-szserrano/) - Summary of contributions
-* [**Benny Calderon**](https://usabilityengineering.github.io/bennys-ux-portfolio/) - Summary of contributions
+* [**Kyle Reeves**](https://usabilityengineering.github.io/ux-portfolio-KyleNoCompile/) 
+   * Summary of contributions:
+* [**Sydney Serrano**](https://usabilityengineering.github.io/ux-portfolio-szserrano/) 
+   * Summary of contributions:
+* [**Benny Calderon**](https://usabilityengineering.github.io/bennys-ux-portfolio/) 
+   * Summary of contributions:
 
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
 * [Wireframes](phase2/Box_Bois.pdf)
 * [Prototype](https://xd.adobe.com/view/16f6dd48-460d-4102-acb4-25a29a98c989-43a5/?fullscreen) 
-* [Protocol](phase3/Box Bois Usability Test Protocol - Google Docs.pdf)
+* [Protocol](phase3/Box_Bois_Usability_Test_Protocol.pdf)
 * [Data collection sheet](https://docs.google.com/spreadsheets/d/1MjsM1fVdNqtomzDAQW_QMf9lI9NFl82loGBwy3lTQrc/edit?usp=sharing)
 
 
