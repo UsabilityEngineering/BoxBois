@@ -27,4 +27,5 @@ The feedback we recieve will show how efficient finding previous deliveries is, 
 The final task we have set up is to find out the user's mental model of our parcel protector. The model we showcase to the users is intended to ensure users can successfully distinguish each aspect of the parcel protector. Such as the LEDs that will be displayed and the hatches found on the parcel protector box.    
 With the responses we recieve it will help us determine if changes should be made towards the parcel protector model. It will also let us know if a section of the model does not make sense to first time users, allowing us to alter the model to be a smoother first time experience.
 
-### Wrap-Up // explanation of overall approach
+### Wrap-Up || Overall approach
+For our study we decided to take both a formative and summative approach alternating between the two depending on the task at hand. Our first two tasks are summative as they consist of the users using our model phone application to accomplish a goal from A to B. For our last task we used a formative approach ,and think-aloud, as we ask the user to describe and elaborate on the model/design of our parcel protector box.   
