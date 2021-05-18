@@ -58,8 +58,13 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
 
 # Phase 3: Usability Evaluation
 
-### Executive Summary:
-
+### Executive Summary
+- Updated personas, scenarios and protoype to fit current design 
+- Conjured useful questions that will help design our phone application and parcel protector model  
+- Created a protocol
+- Created a spreadsheet for data collection of the protocol
+- Created a 3d model of the parcel protector   
+- Reorganized github  
 ### Phase 3 Links  
 * [Protocol](phase3/Box_Bois_Usability_Test_Protocol.pdf)  
 * [Prototype](https://xd.adobe.com/view/16f6dd48-460d-4102-acb4-25a29a98c989-43a5/?fullscreen) 
