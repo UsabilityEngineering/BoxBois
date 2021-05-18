@@ -49,7 +49,7 @@ Around 1.7 million packages are stolen from homeowner's doorsteps each year. Her
   - Created a wireframe of all the app pages then used the prototype feature in adobe XD to make them all path together seamlessly       
 
 ### Phase 2 Links   
-* [Wireframe](phase2/Box_Bois.pdf) pdf
+* [Wireframe](phase2/Box_Bois.pdf) 
 * [Prototype](https://xd.adobe.com/view/16f6dd48-460d-4102-acb4-25a29a98c989-43a5/?fullscreen) 
 
 
