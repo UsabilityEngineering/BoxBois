@@ -1,9 +1,11 @@
 ## Phase 3: Usability Evaluation
 ### Executive Summary
-- asdfas   
--  asdasd  
--  asdasd  
--  asdsad
+- Updated personas, scenarios and protoype to fit current design 
+- Conjured useful questions that will help design our phone application and parcel protector model  
+- Created a protocol
+- Created a spreadsheet for data collection of the protocol
+- Created a 3d model of the parcel protector   
+- Reorganized github
 
 
 [Prototype](https://xd.adobe.com/view/16f6dd48-460d-4102-acb4-25a29a98c989-43a5/?fullscreen)     
