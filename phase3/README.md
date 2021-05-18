@@ -12,6 +12,8 @@
 
 
 ### Background 
+The background questions will aid us in discovering whether the user would ever be interested in purchasing our product.     
+
 
 ### Task 1   
 Task 1 focuses on setting up a user account via a phone application. After that account has been set up, we then tell them to link the parcel protector box to their account.  
